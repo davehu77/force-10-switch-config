@@ -14,3 +14,6 @@ BOOT_USER #
 
 BOOT_USER #restore factory-defaults
 BOOT_USER #reload
+
+
+https://jayceechou.wordpress.com/2008/11/05/force-10-s50-basic-configuration/
