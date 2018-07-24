@@ -1,5 +1,7 @@
 # force-10-switch-config
 
+For S50 switch
+
 http://downloads.dell.com/Manuals/all-products/esuprt_ser_stor_net/esuprt_force10/force10-s25n-s50n_reference%20guide2_en-us.pdf
 Page 1290
 
