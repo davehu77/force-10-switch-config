@@ -17,3 +17,11 @@ BOOT_USER #reload
 
 
 https://jayceechou.wordpress.com/2008/11/05/force-10-s50-basic-configuration/
+
+
+S55 switch test
+enable  <--
+offline stack-unit 0
+diag stack-unit 0
+
+will take about 16 min to run
